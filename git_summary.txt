@@ -1,0 +1,20 @@
+=== Daftar Branch ===
+* main
+  fitur-formulir-kontak
+
+=== Daftar Commit ===
+c9f3e21 Tambah ringkasan riwayat proyek
+ab8d5a7 Tambah konfigurasi .gitignore
+1a4c9d2 Revert commit salah pada contact.html
+e27a4f1 Selesaikan konflik merge di contact.html
+f12a6b9 Tambah formulir kontak di contact.html
+d08b2c3 Inisialisasi proyek MyPortfolio
+
+=== Isi .gitignore ===
+node_modules/
+.env
+.DS_Store
+
+=== Remote Repository ===
+origin  https://github.com/username/MyPortfolio.git (fetch)
+origin  https://github.com/username/MyPortfolio.git (push)
